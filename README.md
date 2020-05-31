@@ -1,4 +1,4 @@
-for Kaggle M5 competition Accuracy
+for Kaggle M5 competition Uncertainty
 Sharing scripts, preprocessing, models, training, submit
 
 large_files:
